@@ -132,3 +132,6 @@ dmypy.json
 *.PNG
 *.jpg
 *.jpeg
+
+#zip files
+*.zip
